@@ -10,5 +10,13 @@
 #### Gerar um novo projeto
 
 ```bash
-  ng nnew nome-do-projeto
+  ng ng new nome-do-projeto
+```
+
+### Angular Material
+
+#### Instalando o Angular Material
+
+```bash
+  ng add @angular/material
 ```
